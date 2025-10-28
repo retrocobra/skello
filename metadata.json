@@ -1,0 +1,5 @@
+{
+  "name": "Skello Data Extractor",
+  "description": "An application to automatically extract performance data from Skello screenshots and export it to a structured format, eliminating manual data entry.",
+  "requestFramePermissions": []
+}
